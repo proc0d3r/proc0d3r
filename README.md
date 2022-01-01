@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @proc0d3r
 - 👀 I’m interested in new tech.
-- 🌱 I’m currently learning web3,blockchain technologies
+- 🌱 I’m currently learning Web3,blockchain technologies
 - 💞️ I’m looking to collaborate on developing smartcontracts.
 - 📫 How to reach me TWITTER:@myjnikhil
                       DISCORD:Thriller_5468
